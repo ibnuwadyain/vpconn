@@ -1,4 +1,4 @@
-name: RDP_2019
+name: VPS_connect
 
 on: workflow_dispatch
 
